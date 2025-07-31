@@ -8,8 +8,8 @@
     }},
     "debug": { "type": "string" },
     "database": { "type": "object", "properties": {
-      "url" { "type": "string" },
-      "user" { "type" "string" }
+      "url": { "type": "string" },
+      "user": { "type": "string" }
     } }
-  },
+  }
 }
